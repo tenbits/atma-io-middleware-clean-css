@@ -1,7 +1,7 @@
 {
-  "name": "atma-io-middleware-uglify",
+  "name": "atma-io-middleware-clean-css",
   "version": "1.1.20",
-  "description": "UglifyJS2 Middleware for Atma.IO and Atma.Toolkit",
+  "description": "CleanCSS Middleware for Atma.IO and Atma.Toolkit",
   "author": {
     "name": "Alex Kit",
     "url": "alex.kit@atmajs.com"
